@@ -13,3 +13,5 @@ git commit
 git push
 
 ```
+change color
+This background color '#ffffff' for light mode and '#000000' for dark mode
