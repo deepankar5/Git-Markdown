@@ -4,5 +4,12 @@
 #### This is sub heading 2
 
 This is not a quates
->This is a quate
->   This a qates with a tab in spaces
+>This is a quate    THis is more details
+
+Below is the code formating
+```
+git init
+git commit 
+git push
+
+```
